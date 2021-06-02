@@ -3,54 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dataprofessor.github.io/Ken_Portfolio/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
+    <lastmod>2021-05-30T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://dataprofessor.github.io/Ken_Portfolio/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dataprofessor.github.io/Ken_Portfolio/"
-                />
+  </url><url>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/post/project9/</loc>
+    <lastmod>2021-05-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/post/project8/</loc>
+    <lastmod>2021-05-28T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/post/project7/</loc>
+    <lastmod>2021-05-24T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/post/project6/</loc>
+    <lastmod>2021-05-21T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/post/project5/</loc>
+    <lastmod>2021-05-16T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/post/project4/</loc>
+    <lastmod>2021-05-11T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/post/chapter3/</loc>
+    <lastmod>2021-05-07T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://dataprofessor.github.io/Ken_Portfolio/post/chapter-2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
+    <lastmod>2021-05-03T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://dataprofessor.github.io/Ken_Portfolio/post/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <lastmod>2021-05-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://dataprofessor.github.io/Ken_Portfolio/fr/post/chapter-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dataprofessor.github.io/Ken_Portfolio/post/chapter-1/"
-                />
   </url><url>
     <loc>https://dataprofessor.github.io/Ken_Portfolio/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://dataprofessor.github.io/Ken_Portfolio/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dataprofessor.github.io/Ken_Portfolio/post/"
-                />
   </url><url>
     <loc>https://dataprofessor.github.io/Ken_Portfolio/about/</loc>
     <changefreq>monthly</changefreq>
@@ -59,43 +64,13 @@
     <loc>https://dataprofessor.github.io/Ken_Portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://dataprofessor.github.io/Ken_Portfolio/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dataprofessor.github.io/Ken_Portfolio/categories/"
-                />
   </url><url>
     <loc>https://dataprofessor.github.io/Ken_Portfolio/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://dataprofessor.github.io/Ken_Portfolio/fr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dataprofessor.github.io/Ken_Portfolio/contact/"
-                />
   </url><url>
     <loc>https://dataprofessor.github.io/Ken_Portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://dataprofessor.github.io/Ken_Portfolio/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dataprofessor.github.io/Ken_Portfolio/tags/"
-                />
   </url>
 </urlset>
