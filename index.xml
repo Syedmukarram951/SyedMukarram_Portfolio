@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Syed Mukarram</title>
-    <link>https://dataprofessor.github.io/Ken_Portfolio/categories/</link>
-    <description>Recent content in Categories on Syed Mukarram</description>
+    <title>Projects on Syed Mukarram</title>
+    <link>https://dataprofessor.github.io/Ken_Portfolio/post/</link>
+    <description>Recent content in Projects on Syed Mukarram</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dataprofessor.github.io/Ken_Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://dataprofessor.github.io/Ken_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 9: Real-time-object-detection-with-deep-learning-and-OpenCV</title>
+      <link>https://dataprofessor.github.io/Ken_Portfolio/post/project9/</link>
+      <pubDate>Sun, 30 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://dataprofessor.github.io/Ken_Portfolio/post/project9/</guid>
+      <description>Used OpenCV for finding out live real time objection detection on my Laptop cam. Stored the obtain value and captured the various images to obtain the real time Object detection accuracy in the model.   link to github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 8:   Timeline Analysis, Dashboard, Storyline on Covid19 dataset  using Tableau</title>
+      <link>https://dataprofessor.github.io/Ken_Portfolio/post/project8/</link>
+      <pubDate>Fri, 28 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://dataprofessor.github.io/Ken_Portfolio/post/project8/</guid>
+      <description>Used Tableau for creating Timeline series on covid19 Dataset crated dashboard on covid19 Dataset created storyline on covid19 Dataset Finally Given Presentation on covid19 dataset obtain values by using tableau   link to github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 7:  Stock Market Prediction using Numerical and Textual Analysis</title>
+      <link>https://dataprofessor.github.io/Ken_Portfolio/post/project7/</link>
+      <pubDate>Mon, 24 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://dataprofessor.github.io/Ken_Portfolio/post/project7/</guid>
+      <description>Stock Market Prediction using Numerical and Textual Analysis used two different dataset like stock Dataset and News Dataset performed plotting and Rolling Mean and Standard Deviation.   link to github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 6:  Prediction using Decision tree algorithm</title>
+      <link>https://dataprofessor.github.io/Ken_Portfolio/post/project6/</link>
+      <pubDate>Fri, 21 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://dataprofessor.github.io/Ken_Portfolio/post/project6/</guid>
+      <description>Prediction on Iris data set by using Decision Tree Algorithm finding out optimal depth and score based up on the sepal lenght and sepal width of Iris data.   link to github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 5:  Exploratory Data Analysis - Sports - IPL Dataset</title>
+      <link>https://dataprofessor.github.io/Ken_Portfolio/post/project5/</link>
+      <pubDate>Sun, 16 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://dataprofessor.github.io/Ken_Portfolio/post/project5/</guid>
+      <description>Exploratory Data Analysis on Sports dataset by using data visualization tools like matplotlib and seaborn   link to github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4:  Exploratory Data Analysis - Terrorism Dataset</title>
+      <link>https://dataprofessor.github.io/Ken_Portfolio/post/project4/</link>
+      <pubDate>Tue, 11 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://dataprofessor.github.io/Ken_Portfolio/post/project4/</guid>
+      <description>Exploratory Data Analysis on Terrorism Dataset by using data visualization tools like matplotlib and seaborn   link to github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3:  Exploratory Data Analysis - Retail - SampleSuperStore Dataset</title>
+      <link>https://dataprofessor.github.io/Ken_Portfolio/post/chapter3/</link>
+      <pubDate>Fri, 07 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://dataprofessor.github.io/Ken_Portfolio/post/chapter3/</guid>
+      <description>Exploratory Data Analysis on Retail Super Store by using data visualization tools like matplotlib and seaborn   link to github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Prediction Using UnSupervised ML</title>
+      <link>https://dataprofessor.github.io/Ken_Portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 03 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://dataprofessor.github.io/Ken_Portfolio/post/chapter-2/</guid>
+      <description>Predicting the centroid and clusters on a Iris based Dataset by using UnSupervised ML(K-Means Clustering)
+  link to github repository</description>
+    </item>
+    
+    <item>
+      <title>Project1: Prediction Using Supervised ML</title>
+      <link>https://dataprofessor.github.io/Ken_Portfolio/post/chapter-1/</link>
+      <pubDate>Sat, 01 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://dataprofessor.github.io/Ken_Portfolio/post/chapter-1/</guid>
+      <description>Predicting the student percentage based up on the student study hours by using Supervised ML(Linear Regression Method)
+  link to github repository</description>
+    </item>
+    
   </channel>
 </rss>
